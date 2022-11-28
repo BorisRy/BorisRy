@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a chat app, built with React**
 
-- 🌱 I’m currently improving my skills in **React.js and responsive design**
+- 🌱 I’m currently improving my skills in **React.js, TypeScript and responsive design**
 
 - 📫 How to reach me **ryjkovboris@gmail.com**
 
